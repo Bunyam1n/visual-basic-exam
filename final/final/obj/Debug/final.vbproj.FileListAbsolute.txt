@@ -1,0 +1,12 @@
+C:\Users\muham\source\repos\final\final\bin\Debug\final.exe.config
+C:\Users\muham\source\repos\final\final\bin\Debug\final.exe
+C:\Users\muham\source\repos\final\final\bin\Debug\final.pdb
+C:\Users\muham\source\repos\final\final\bin\Debug\final.xml
+C:\Users\muham\source\repos\final\final\obj\Debug\final.vbprojAssemblyReference.cache
+C:\Users\muham\source\repos\final\final\obj\Debug\final.Form1.resources
+C:\Users\muham\source\repos\final\final\obj\Debug\final.Resources.resources
+C:\Users\muham\source\repos\final\final\obj\Debug\final.vbproj.GenerateResource.cache
+C:\Users\muham\source\repos\final\final\obj\Debug\final.vbproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\final\final\obj\Debug\final.exe
+C:\Users\muham\source\repos\final\final\obj\Debug\final.xml
+C:\Users\muham\source\repos\final\final\obj\Debug\final.pdb

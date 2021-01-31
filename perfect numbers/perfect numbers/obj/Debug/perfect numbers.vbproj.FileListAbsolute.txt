@@ -1,0 +1,12 @@
+C:\Users\muham\source\repos\perfect numbers\perfect numbers\bin\Debug\perfect numbers.exe.config
+C:\Users\muham\source\repos\perfect numbers\perfect numbers\bin\Debug\perfect numbers.exe
+C:\Users\muham\source\repos\perfect numbers\perfect numbers\bin\Debug\perfect numbers.pdb
+C:\Users\muham\source\repos\perfect numbers\perfect numbers\bin\Debug\perfect numbers.xml
+C:\Users\muham\source\repos\perfect numbers\perfect numbers\obj\Debug\perfect numbers.vbprojAssemblyReference.cache
+C:\Users\muham\source\repos\perfect numbers\perfect numbers\obj\Debug\perfect_numbers.Form1.resources
+C:\Users\muham\source\repos\perfect numbers\perfect numbers\obj\Debug\perfect_numbers.Resources.resources
+C:\Users\muham\source\repos\perfect numbers\perfect numbers\obj\Debug\perfect numbers.vbproj.GenerateResource.cache
+C:\Users\muham\source\repos\perfect numbers\perfect numbers\obj\Debug\perfect numbers.vbproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\perfect numbers\perfect numbers\obj\Debug\perfect numbers.exe
+C:\Users\muham\source\repos\perfect numbers\perfect numbers\obj\Debug\perfect numbers.xml
+C:\Users\muham\source\repos\perfect numbers\perfect numbers\obj\Debug\perfect numbers.pdb

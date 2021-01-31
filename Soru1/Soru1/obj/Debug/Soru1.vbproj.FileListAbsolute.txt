@@ -1,0 +1,12 @@
+C:\Users\muham\source\repos\Soru1\Soru1\bin\Debug\Soru1.exe.config
+C:\Users\muham\source\repos\Soru1\Soru1\bin\Debug\Soru1.exe
+C:\Users\muham\source\repos\Soru1\Soru1\bin\Debug\Soru1.pdb
+C:\Users\muham\source\repos\Soru1\Soru1\bin\Debug\Soru1.xml
+C:\Users\muham\source\repos\Soru1\Soru1\obj\Debug\Soru1.vbprojAssemblyReference.cache
+C:\Users\muham\source\repos\Soru1\Soru1\obj\Debug\Soru1.Form1.resources
+C:\Users\muham\source\repos\Soru1\Soru1\obj\Debug\Soru1.Resources.resources
+C:\Users\muham\source\repos\Soru1\Soru1\obj\Debug\Soru1.vbproj.GenerateResource.cache
+C:\Users\muham\source\repos\Soru1\Soru1\obj\Debug\Soru1.vbproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\Soru1\Soru1\obj\Debug\Soru1.exe
+C:\Users\muham\source\repos\Soru1\Soru1\obj\Debug\Soru1.xml
+C:\Users\muham\source\repos\Soru1\Soru1\obj\Debug\Soru1.pdb
